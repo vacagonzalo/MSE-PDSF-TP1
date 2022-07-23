@@ -1,0 +1,5 @@
+* Simulaciones
+** Genere un paquete/módulo que permita sintetizar:
+*** senoidal(fs[Hz], fO[Hz], amp[0 a 1], muestras, fase[radianes])
+*** cuadrada(fs[Hz], fO[Hz], amp[0 a 1], muestras)
+*** Triangular(fs[Hz], fO[Hz], amp[0 a 1], muestras)
