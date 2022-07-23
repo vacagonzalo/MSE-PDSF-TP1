@@ -3,3 +3,6 @@
 *** senoidal(fs[Hz], fO[Hz], amp[0 a 1], muestras, fase[radianes])
 *** cuadrada(fs[Hz], fO[Hz], amp[0 a 1], muestras)
 *** Triangular(fs[Hz], fO[Hz], amp[0 a 1], muestras)
+** Realice los siguientes experimentos
+*** fo=.1fs y 1.1fs
+*** fo=.49fs y .51fs
